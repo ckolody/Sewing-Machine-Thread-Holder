@@ -1,0 +1,25 @@
+{
+    "atomType": "Molecule",
+    "name": "Sewing Machine Thread Holder",
+    "x": 0,
+    "y": 0,
+    "uniqueID": 620554,
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [
+        {
+            "atomType": "Output",
+            "name": "Output",
+            "x": 0.9874999999999999,
+            "y": 0.5,
+            "uniqueID": 271449,
+            "ioValues": []
+        }
+    ],
+    "allConnectors": [],
+    "fileTypeVersion": 1,
+    "simplify": false,
+    "unitsIndex": 0,
+    "filetypeVersion": 1,
+    "circleSegmentSize": 2
+}
